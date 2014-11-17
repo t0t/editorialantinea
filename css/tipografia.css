@@ -1,0 +1,35 @@
+body { font: 0.83em/19px Arial, sans-serif !important; }
+h2 { font-size: 1.6em; line-height: 26px; }
+small { font-size: 75%; }
+h1, h2, h3, h4, h5, h6, .menu_principal ul li a {
+	/* font-weight: lighter !important; */
+	/* font-family: "myriad-pro-1","myriad-pro-2",sans-serif; */
+	color: #684436;
+	}
+	
+/* MENU PRINCIPAL */	
+.menu_principal ul ul { margin-top: 10px; background-color: blue; }
+.menu_principal li {
+	font-size: 1.2em !important;
+	}
+	.menu_principal li li {
+		background-color: #FFF0DB; font-size: 1.1em;
+	}
+	
+	
+	
+	
+#destacado-noticias h4 {
+	font-weight: bold;
+	line-height: 17px;
+}	
+
+
+/* CUSTOM FIELDS */
+#custom-fields ul {}
+#custom-fields li { font-size: 0.8em; }
+#custom-fields li span { font-weight: bold; }
+
+/* ENTRADAS */		
+.single .content h2 { font-size: 1.7em; font-weight: bold; }
+.single h3 { font-size: 1.5em; line-height: 24px; }

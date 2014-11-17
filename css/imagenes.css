@@ -1,0 +1,6 @@
+body { background: url(../images/bg.jpg) repeat-x 0 0 #FFF0DB; }
+.logo h1 a { background: url(../images/logo.gif) no-repeat 0 0; }
+/* SLIDERS */
+.nivo-directionNav a { background: url(../images/flechas.png) no-repeat 0 0 transparent; }
+#header { background: url(../images/bgheader.jpg) repeat-x 0 0; }
+#page { background: url(../images/bgcontainer.jpg) repeat-x 0 153px #FFF9F0; }

@@ -1,0 +1,26 @@
+a, a:visited { color: #ED572E; }
+a:hover { color: black; }
+body { background-color: #FFF0DB; }
+#custom-fields { background-color: #FFECE5 }
+
+/* FORM BUSCADOR */
+#buscador input#s { background-color: #FFF0DB; color: black; }
+#buscador input#searchsubmit { background: transparent; color: black; }
+#buscador input#searchsubmit:hover { cursor: pointer; color: #888; }
+
+/* ENTRADAS */
+#content {}
+
+/* SELECTS */
+.current-menu-item a, .current-post-ancestor a, .current-menu-parent a, .current-post-parent a { color: black !important; }
+
+/* FORM CONTACTO */
+.wpcf7 textarea, .wpcf7 input { background-color: #ddd; color: black; border: none; }
+.wpcf7 input.wpcf7-submit { background-color: #f3f3f3; color: #888; }
+.wpcf7 input.wpcf7-submit:hover { cursor: pointer; color: black; }
+.wpcf7-response-output { width: 262px; }
+
+/* FORM NEWSLETTER */
+form#alo_easymail_widget_form input { background-color: #f3f3f3; color: black;}
+form#alo_easymail_widget_form input.input-submit { background-color: black; color: #ccc; margin-left: 0; }
+form#alo_easymail_widget_form input.input-submit:hover { cursor: pointer; color: white; }
